@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mortgage Calculator", "Mortgage Calculator\Mortgage Calculator.csproj", "{5A14ED87-F47F-49EE-AB9A-0EE9E7A64DC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A14ED87-F47F-49EE-AB9A-0EE9E7A64DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A14ED87-F47F-49EE-AB9A-0EE9E7A64DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A14ED87-F47F-49EE-AB9A-0EE9E7A64DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A14ED87-F47F-49EE-AB9A-0EE9E7A64DC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {773DC61F-5C4B-4B7E-9436-64BAAF3D25B8}
+	EndGlobalSection
+EndGlobal
