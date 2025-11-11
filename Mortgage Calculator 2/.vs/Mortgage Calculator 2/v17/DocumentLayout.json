@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yanra\\source\\repos\\oop2-fall-2025-26\\Mortgage Calculator 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7560D388-4777-4EED-AC62-471344DC912B}|Mortgage Calculator 2\\Mortgage Calculator 2.csproj|c:\\users\\yanra\\source\\repos\\oop2-fall-2025-26\\mortgage calculator 2\\mortgage calculator 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7560D388-4777-4EED-AC62-471344DC912B}|Mortgage Calculator 2\\Mortgage Calculator 2.csproj|solutionrelative:mortgage calculator 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yanra\\source\\repos\\oop2-fall-2025-26\\Mortgage Calculator 2\\Mortgage Calculator 2\\Program.cs",
+              "RelativeDocumentMoniker": "Mortgage Calculator 2\\Program.cs",
+              "ToolTip": "C:\\Users\\yanra\\source\\repos\\oop2-fall-2025-26\\Mortgage Calculator 2\\Mortgage Calculator 2\\Program.cs",
+              "RelativeToolTip": "Mortgage Calculator 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T07:28:07.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
